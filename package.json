@@ -1,0 +1,17 @@
+{
+    "buildNpmdoc":"co-views",
+    "devDependencies": {
+        "co-views": "*",
+        "electron-lite": "kaizhu256/node-electron-lite#alpha",
+        "utility2": "kaizhu256/node-utility2#alpha"
+    },
+    "name":"npmdoc-co-views",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/npmdoc/node-npmdoc-co-views"
+    },
+    "scripts": {
+        "build-ci": "utility2 shReadmeTest build_ci.sh"
+    },
+    "version": "0.0.1"
+}
