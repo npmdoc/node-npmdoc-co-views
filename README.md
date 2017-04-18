@@ -1,9 +1,14 @@
-# api documentation for  [co-views (v2.1.0)](https://github.com/tj/co-views#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-co-views.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-co-views) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-co-views.svg)](https://travis-ci.org/npmdoc/node-npmdoc-co-views)
+# npmdoc-co-views
+
+#### api documentation for  [co-views (v2.1.0)](https://github.com/tj/co-views#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-co-views.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-co-views) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-co-views.svg)](https://travis-ci.org/npmdoc/node-npmdoc-co-views)
+
 #### Higher level promise-based template rendering for Co and others, built on co-render
 
-[![NPM](https://nodei.co/npm/co-views.png?downloads=true)](https://www.npmjs.com/package/co-views)
+[![NPM](https://nodei.co/npm/co-views.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/co-views)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-co-views/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-co-views_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-co-views/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-co-views/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-co-views/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-co-views/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-co-views/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-co-views/build/screenCapture.npmPackageListing.svg)
 
@@ -53,17 +58,14 @@
     "license": "MIT",
     "maintainers": [
         {
-            "name": "tjholowaychuk",
-            "email": "tj@vision-media.ca"
+            "name": "tjholowaychuk"
         },
         {
-            "name": "coderhaoxin",
-            "email": "coderhaoxin@outlook.com"
+            "name": "coderhaoxin"
         }
     ],
     "name": "co-views",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/tj/co-views.git"
@@ -72,16 +74,6 @@
     "version": "2.1.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module co-views](#apidoc.module.co-views)
-
-
-
-# <a name="apidoc.module.co-views"></a>[module co-views](#apidoc.module.co-views)
 
 
 
