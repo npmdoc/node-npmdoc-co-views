@@ -8,8 +8,8 @@
 <tspan x="10" y="90">  ├─┬ co-render@1.1.0 </tspan>
 <tspan x="10" y="106">  │ └─┬ consolidate@0.14.5 </tspan>
 <tspan x="10" y="122">  │   └── bluebird@3.5.0 </tspan>
-<tspan x="10" y="138">  ├─┬ debug@2.6.3 </tspan>
-<tspan x="10" y="154">  │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="138">  ├─┬ debug@2.6.4 </tspan>
+<tspan x="10" y="154">  │ └── ms@0.7.3 </tspan>
 <tspan x="10" y="170">  └── object-assign@4.1.1</tspan>
 </text>
 </svg>
