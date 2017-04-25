@@ -1,6 +1,6 @@
 # npmdoc-co-views
 
-#### api documentation for  [co-views (v2.1.0)](https://github.com/tj/co-views#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-co-views.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-co-views) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-co-views.svg)](https://travis-ci.org/npmdoc/node-npmdoc-co-views)
+#### basic api documentation for  [co-views (v2.1.0)](https://github.com/tj/co-views#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-co-views.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-co-views) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-co-views.svg)](https://travis-ci.org/npmdoc/node-npmdoc-co-views)
 
 #### Higher level promise-based template rendering for Co and others, built on co-render
 
@@ -71,7 +71,8 @@
         "url": "git+https://github.com/tj/co-views.git"
     },
     "scripts": {},
-    "version": "2.1.0"
+    "version": "2.1.0",
+    "bin": {}
 }
 ```
 
